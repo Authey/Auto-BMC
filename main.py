@@ -29,6 +29,7 @@ def get_func():
 
 def verify_func():
     func_dic = get_func()
+    counter = 0
     if not out_path.get():
         out_path.set('.')
     with open('{}/{}_output.txt'.format(out_path.get(), bmc.get()), 'a') as f_out:
@@ -46,6 +47,10 @@ def verify_func():
                     text_box.update()
                     while p.poll() is None:
                         p.wait()
+                    counter += 1
+            text_box.insert(END, 'Total number of functions: {}.\n'.format(counter))
+            text_box.see(END)
+            text_box.update()
 
 
 '''
@@ -54,6 +59,7 @@ Possible Improvements:
     - Missing file autocompletion
     - Definition issue autodebug (add or fix)
     - Program level support
+    - GUI
 '''
 if __name__ == '__main__':
     # parser = argparse.ArgumentParser()
