@@ -1,4 +1,4 @@
-# VerificationTool
+# Auto-BMC Verification Tool
 This is an verification tool that can automatically verify all C functions in the specified directory.
 
 ## Features
