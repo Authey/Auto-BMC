@@ -9,7 +9,7 @@ This is an verification tool that can automatically verify all C functions in th
 + Compatible with Windows and Linux systems.
 + Visible verification process and result file writing.
 
-## Usage
+## How to Use it
 + Use `pip install tkinter` to download GUI dependency.
 + Run the python file with `python main.py`.
 + Select BMC and each directory location.
@@ -19,6 +19,6 @@ This is an verification tool that can automatically verify all C functions in th
 + The results can be viewed in the output file.
 
 ## Improvements
-+ Make python file to executable `.exe` file.
 + Program level verification support.
 + Connect to ChatGPT to autocomplete missing files.
++ Add fuzzing testing.
