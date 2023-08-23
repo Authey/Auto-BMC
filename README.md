@@ -17,6 +17,7 @@ This is an verification tool that can automatically verify all C functions in th
 + Click button `Verify` to start verification.
 + Check the verification progress in the bottom text box.
 + The results can be viewed in the output file.
++ Verification for main program needs to be performed manually.
 
 ## Improvements
 + Program level verification support.
