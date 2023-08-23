@@ -1,0 +1,531 @@
+
+======= esbmc verification for function validateDioParameter  in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.121s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (16 assignments)
+Slicing time: 0.000s (removed 16 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Channel_Config_Contains in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.118s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Unwinding loop 2  iteration  1   file Dio.c line 150 function Channel_Config_Contains
+Not unwinding 
+Symex completed in: 0.001s (40 assignments)
+Slicing time: 0.001s (removed 25 assignments)
+Generated 6 VCC(s), 6 remaining after simplification (15 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.000s
+BMC program time: 0.003s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Port_Config_Contains in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.107s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Unwinding loop 3  iteration  1   file Dio.c line 174 function Port_Config_Contains
+Not unwinding 
+Symex completed in: 0.001s (40 assignments)
+Slicing time: 0.000s (removed 25 assignments)
+Generated 6 VCC(s), 6 remaining after simplification (15 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.000s
+BMC program time: 0.002s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Channel_Group_Config_Contains in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.103s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Unwinding loop 4  iteration  1   file Dio.c line 198 function Channel_Group_Config_Contains
+Not unwinding 
+Symex completed in: 0.002s (53 assignments)
+Slicing time: 0.000s (removed 27 assignments)
+Generated 16 VCC(s), 16 remaining after simplification (26 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.000s
+BMC program time: 0.003s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_Init in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.103s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (24 assignments)
+Slicing time: 0.000s (removed 24 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_ReadPort in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.113s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (19 assignments)
+Slicing time: 0.000s (removed 19 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_WritePort in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.115s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (18 assignments)
+Slicing time: 0.000s (removed 18 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_ReadChannel in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.117s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (19 assignments)
+Slicing time: 0.000s (removed 19 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_WriteChannel in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.133s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (18 assignments)
+Slicing time: 0.000s (removed 18 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_ReadChannelGroup in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.131s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (19 assignments)
+Slicing time: 0.000s (removed 19 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_WriteChannelGroup in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.126s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (18 assignments)
+Slicing time: 0.000s (removed 18 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_GetVersionInfo in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function Dio_Arc_Deinit in file Dio.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function getPortFromChannel in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.126s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (27 assignments)
+Slicing time: 0.000s (removed 27 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function getBitFromChannel  in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.120s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (27 assignments)
+Slicing time: 0.000s (removed 27 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function readSpiBit in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.117s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (24 assignments)
+Slicing time: 0.000s (removed 17 assignments)
+Generated 3 VCC(s), 3 remaining after simplification (7 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.000s
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function readSpiPort in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.114s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.006s (184 assignments)
+Slicing time: 0.000s (removed 112 assignments)
+Generated 42 VCC(s), 42 remaining after simplification (72 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.000s
+BMC program time: 0.008s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function readPortGio in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.118s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (24 assignments)
+Slicing time: 0.000s (removed 19 assignments)
+Generated 3 VCC(s), 3 remaining after simplification (5 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.000s
+Building error trace
+
+Counterexample:
+
+State 1 file Dio_Hw_tms570.c line 197 function readPortGio thread 0
+----------------------------------------------------
+Violated property:
+  file Dio_Hw_tms570.c line 197 function readPortGio
+  dereference failure: invalid pointer
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function readPortAdcGio in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.113s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (24 assignments)
+Slicing time: 0.000s (removed 19 assignments)
+Generated 3 VCC(s), 3 remaining after simplification (5 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.001s
+Building error trace
+
+Counterexample:
+
+State 1 file Dio_Hw_tms570.c line 217 function readPortAdcGio thread 0
+----------------------------------------------------
+Violated property:
+  file Dio_Hw_tms570.c line 217 function readPortAdcGio
+  dereference failure: invalid pointer
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Dio_Hw_ReadPort in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.116s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.008s (228 assignments)
+Slicing time: 0.001s (removed 146 assignments)
+Generated 49 VCC(s), 49 remaining after simplification (82 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.003s
+Building error trace
+
+Counterexample:
+
+State 2 file Dio_Hw_tms570.c line 256 function Dio_Hw_ReadPort thread 0
+----------------------------------------------------
+Violated property:
+  file Dio_Hw_tms570.c line 256 function Dio_Hw_ReadPort
+  array bounds violated: array `GPIO_ports1' upper bound
+  (signed long int)portId < 3
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Dio_Hw_WritePort in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.112s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.002s (46 assignments)
+Slicing time: 0.000s (removed 31 assignments)
+Generated 9 VCC(s), 9 remaining after simplification (15 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.062s
+Building error trace
+
+Counterexample:
+
+State 2 file Dio_Hw_tms570.c line 341 function Dio_Hw_WritePort thread 0
+----------------------------------------------------
+Violated property:
+  file Dio_Hw_tms570.c line 341 function Dio_Hw_WritePort
+  array bounds violated: array `GPIO_ports1' upper bound
+  (signed long int)portId < 3
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Dio_Hw_ReadChannel in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.118s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.009s (267 assignments)
+Slicing time: 0.001s (removed 174 assignments)
+Generated 49 VCC(s), 49 remaining after simplification (93 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.002s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.001s
+BMC program time: 0.013s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Dio_Hw_WriteChannel in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.118s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.003s (98 assignments)
+Slicing time: 0.001s (removed 49 assignments)
+Generated 19 VCC(s), 19 remaining after simplification (49 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.036s
+Building error trace
+
+Counterexample:
+
+State 1 file Dio_Hw_tms570.c line 415 function Dio_Hw_WriteChannel thread 0
+----------------------------------------------------
+  port = 3 (00000000 00000000 00000000 00000011)
+
+State 2 file Dio_Hw_tms570.c line 111 function getBitFromChannel thread 0
+----------------------------------------------------
+  rv_bit = 2 (00000000 00000000 00000000 00000010)
+
+State 3 file Dio_Hw_tms570.c line 416 function Dio_Hw_WriteChannel thread 0
+----------------------------------------------------
+  bit = 2 (00000000 00000010)
+
+State 5 file Dio_Hw_tms570.c line 421 function Dio_Hw_WriteChannel thread 0
+----------------------------------------------------
+Violated property:
+  file Dio_Hw_tms570.c line 421 function Dio_Hw_WriteChannel
+  array bounds violated: array `spiBitMap' upper bound
+  (signed long int)(channelId - 48) < 14
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Dio_Hw_ReadChannelGroup in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.121s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.007s (235 assignments)
+Slicing time: 0.002s (removed 149 assignments)
+Generated 52 VCC(s), 52 remaining after simplification (86 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.001s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.009s
+Building error trace
+
+Counterexample:
+
+State 3 file Dio_Hw_tms570.c line 256 function Dio_Hw_ReadPort thread 0
+----------------------------------------------------
+Violated property:
+  file Dio_Hw_tms570.c line 256 function Dio_Hw_ReadPort
+  array bounds violated: array `GPIO_ports1' upper bound
+  (signed long int)portId < 3
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Dio_Hw_WriteChannelGroup in file Dio_Hw_tms570.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.117s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.009s (271 assignments)
+Slicing time: 0.001s (removed 169 assignments)
+Generated 63 VCC(s), 63 remaining after simplification (102 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.002s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.079s
+Building error trace
+
+Counterexample:
+
+State 5 file Dio_Hw_tms570.c line 256 function Dio_Hw_ReadPort thread 0
+----------------------------------------------------
+Violated property:
+  file Dio_Hw_tms570.c line 256 function Dio_Hw_ReadPort
+  array bounds violated: array `GPIO_ports1' upper bound
+  (signed long int)portId < 3
+
+
+VERIFICATION FAILED

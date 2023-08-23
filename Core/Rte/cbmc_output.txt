@@ -1,0 +1,1185 @@
+
+======= cbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 61 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 61 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 61 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 47 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 61 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 61 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 61 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_ComM.c
+Converting
+Type-checking Rte_ComM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 47 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 57 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 75 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 75 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 47 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 57 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 75 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 75 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 43 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_EcuM.c
+Converting
+Type-checking Rte_EcuM
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 47 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_Fifo_Init in file Rte_Fifo.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_Fifo.c
+Converting
+Type-checking Rte_Fifo
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 237 steps
+simple slicing removed 18 assignments
+Generated 58 VCC(s), 58 remaining after simplification
+Passing problem to propositional reduction
+converting SSA
+Running propositional reduction
+Post-processing
+Solving with MiniSAT 2.2.1 with simplifier
+16766 variables, 45883 clauses
+SAT checker: instance is SATISFIABLE
+Solving with MiniSAT 2.2.1 with simplifier
+16766 variables, 1969 clauses
+SAT checker inconsistent: instance is UNSATISFIABLE
+Runtime decision procedure: 0.286898s
+
+** Results:
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Init
+[Rte_Fifo_Init.pointer_dereference.1] line 14 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.2] line 14 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.3] line 14 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.4] line 14 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.5] line 14 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.6] line 14 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.7] line 14 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.10] line 15 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.14] line 15 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.13] line 15 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.12] line 15 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.11] line 15 dereference failure: dead object in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.9] line 15 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.8] line 15 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.15] line 16 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.24] line 16 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.23] line 16 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.22] line 16 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.21] line 16 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.20] line 16 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.19] line 16 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.18] line 16 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.17] line 16 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.16] line 16 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.30] line 17 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.25] line 17 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.26] line 17 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.27] line 17 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.28] line 17 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.29] line 17 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.31] line 17 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.32] line 17 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.33] line 17 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.34] line 17 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.44] line 18 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.43] line 18 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.42] line 18 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.41] line 18 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.40] line 18 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.38] line 18 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.37] line 18 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.36] line 18 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.35] line 18 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.39] line 18 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.49] line 19 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.51] line 19 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.50] line 19 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.48] line 19 dereference failure: dead object in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.47] line 19 dereference failure: deallocated dynamic object in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.46] line 19 dereference failure: pointer invalid in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.45] line 19 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.52] line 20 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.53] line 20 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.54] line 20 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.55] line 20 dereference failure: dead object in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.56] line 20 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.57] line 20 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): FAILURE
+[Rte_Fifo_Init.pointer_dereference.58] line 20 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): FAILURE
+
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Push
+[Rte_Fifo_Push.pointer_dereference.2] line 30 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.1] line 30 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.3] line 30 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.4] line 30 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.5] line 30 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.6] line 30 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.7] line 30 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.8] line 30 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.9] line 30 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.10] line 30 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.17] line 32 dereference failure: invalid integer address in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.16] line 32 dereference failure: pointer outside object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.15] line 32 dereference failure: pointer outside dynamic object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.14] line 32 dereference failure: dead object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.12] line 32 dereference failure: pointer invalid in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.11] line 32 dereference failure: pointer NULL in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.13] line 32 dereference failure: deallocated dynamic object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.24] line 35 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.28] line 35 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.27] line 35 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.26] line 35 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.25] line 35 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.23] line 35 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.22] line 35 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.21] line 35 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.20] line 35 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.19] line 35 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.18] line 35 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.29] line 36 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.39] line 36 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.38] line 36 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.37] line 36 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.36] line 36 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.35] line 36 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.33] line 36 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.32] line 36 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.31] line 36 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.30] line 36 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.34] line 36 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.46] line 37 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.49] line 37 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.48] line 37 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.47] line 37 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.45] line 37 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.44] line 37 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.43] line 37 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.42] line 37 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.41] line 37 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.40] line 37 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.50] line 38 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.51] line 38 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.52] line 38 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.58] line 40 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.53] line 40 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.54] line 40 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.55] line 40 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.56] line 40 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.57] line 40 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.59] line 40 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Pop
+[Rte_Fifo_Pop.pointer_dereference.2] line 58 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.1] line 58 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.3] line 58 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.4] line 58 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.5] line 58 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.6] line 58 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.7] line 58 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.8] line 62 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.15] line 62 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.16] line 62 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.17] line 62 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.18] line 62 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.14] line 62 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.12] line 62 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.9] line 62 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.10] line 62 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.11] line 62 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.13] line 62 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.29] line 63 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.19] line 63 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.20] line 63 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.21] line 63 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.22] line 63 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.23] line 63 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.24] line 63 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.25] line 63 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.26] line 63 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.27] line 63 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.28] line 63 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.30] line 64 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.31] line 64 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.32] line 64 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.33] line 64 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.34] line 64 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.35] line 64 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.36] line 64 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.37] line 64 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.38] line 64 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.39] line 64 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.40] line 65 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.41] line 65 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.42] line 65 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.49] line 67 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.43] line 67 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.44] line 67 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.45] line 67 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.46] line 67 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.47] line 67 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.48] line 67 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.50] line 69 dereference failure: pointer NULL in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.51] line 69 dereference failure: pointer invalid in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.52] line 69 dereference failure: deallocated dynamic object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.53] line 69 dereference failure: dead object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.54] line 69 dereference failure: pointer outside dynamic object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.55] line 69 dereference failure: pointer outside object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.56] line 69 dereference failure: invalid integer address in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+
+** 50 of 173 failed (2 iterations)
+VERIFICATION FAILED
+
+======= cbmc verification for function Rte_Fifo_Push in file Rte_Fifo.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_Fifo.c
+Converting
+Type-checking Rte_Fifo
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 282 steps
+simple slicing removed 38 assignments
+Generated 59 VCC(s), 59 remaining after simplification
+Passing problem to propositional reduction
+converting SSA
+Running propositional reduction
+Post-processing
+Solving with MiniSAT 2.2.1 with simplifier
+13150 variables, 32284 clauses
+SAT checker: instance is UNSATISFIABLE
+Runtime decision procedure: 0.0462451s
+
+** Results:
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Init
+[Rte_Fifo_Init.pointer_dereference.1] line 14 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.2] line 14 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.3] line 14 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.4] line 14 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.5] line 14 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.6] line 14 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.7] line 14 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.10] line 15 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.14] line 15 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.13] line 15 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.12] line 15 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.11] line 15 dereference failure: dead object in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.9] line 15 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.8] line 15 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.15] line 16 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.24] line 16 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.23] line 16 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.22] line 16 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.21] line 16 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.20] line 16 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.19] line 16 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.18] line 16 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.17] line 16 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.16] line 16 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.30] line 17 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.25] line 17 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.26] line 17 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.27] line 17 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.28] line 17 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.29] line 17 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.31] line 17 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.32] line 17 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.33] line 17 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.34] line 17 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.44] line 18 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.43] line 18 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.42] line 18 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.41] line 18 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.40] line 18 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.38] line 18 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.37] line 18 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.36] line 18 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.35] line 18 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.39] line 18 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.49] line 19 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.51] line 19 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.50] line 19 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.48] line 19 dereference failure: dead object in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.47] line 19 dereference failure: deallocated dynamic object in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.46] line 19 dereference failure: pointer invalid in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.45] line 19 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.52] line 20 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.53] line 20 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.54] line 20 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.55] line 20 dereference failure: dead object in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.56] line 20 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.57] line 20 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.58] line 20 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Push
+[Rte_Fifo_Push.pointer_dereference.2] line 30 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.1] line 30 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.3] line 30 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.4] line 30 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.5] line 30 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.6] line 30 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.7] line 30 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.8] line 30 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.9] line 30 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.10] line 30 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.17] line 32 dereference failure: invalid integer address in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.16] line 32 dereference failure: pointer outside object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.15] line 32 dereference failure: pointer outside dynamic object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.14] line 32 dereference failure: dead object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.12] line 32 dereference failure: pointer invalid in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.11] line 32 dereference failure: pointer NULL in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.13] line 32 dereference failure: deallocated dynamic object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.24] line 35 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.28] line 35 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.27] line 35 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.26] line 35 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.25] line 35 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.23] line 35 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.22] line 35 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.21] line 35 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.20] line 35 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.19] line 35 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.18] line 35 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.29] line 36 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.39] line 36 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.38] line 36 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.37] line 36 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.36] line 36 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.35] line 36 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.33] line 36 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.32] line 36 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.31] line 36 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.30] line 36 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.34] line 36 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.46] line 37 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.49] line 37 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.48] line 37 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.47] line 37 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.45] line 37 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.44] line 37 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.43] line 37 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.42] line 37 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.41] line 37 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.40] line 37 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.50] line 38 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.51] line 38 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.52] line 38 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.58] line 40 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.53] line 40 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.54] line 40 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.55] line 40 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.56] line 40 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.57] line 40 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.59] line 40 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Pop
+[Rte_Fifo_Pop.pointer_dereference.2] line 58 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.1] line 58 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.3] line 58 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.4] line 58 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.5] line 58 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.6] line 58 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.7] line 58 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.8] line 62 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.15] line 62 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.16] line 62 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.17] line 62 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.18] line 62 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.14] line 62 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.12] line 62 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.9] line 62 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.10] line 62 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.11] line 62 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.13] line 62 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.29] line 63 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.19] line 63 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.20] line 63 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.21] line 63 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.22] line 63 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.23] line 63 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.24] line 63 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.25] line 63 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.26] line 63 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.27] line 63 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.28] line 63 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.30] line 64 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.31] line 64 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.32] line 64 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.33] line 64 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.34] line 64 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.35] line 64 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.36] line 64 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.37] line 64 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.38] line 64 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.39] line 64 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.40] line 65 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.41] line 65 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.42] line 65 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.49] line 67 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.43] line 67 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.44] line 67 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.45] line 67 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.46] line 67 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.47] line 67 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.48] line 67 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.50] line 69 dereference failure: pointer NULL in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.51] line 69 dereference failure: pointer invalid in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.52] line 69 dereference failure: deallocated dynamic object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.53] line 69 dereference failure: dead object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.54] line 69 dereference failure: pointer outside dynamic object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.55] line 69 dereference failure: pointer outside object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.56] line 69 dereference failure: invalid integer address in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+
+** 0 of 173 failed (1 iteration)
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_Fifo_Pop in file Rte_Fifo.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_Fifo.c
+Converting
+Type-checking Rte_Fifo
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 289 steps
+simple slicing removed 58 assignments
+Generated 56 VCC(s), 56 remaining after simplification
+Passing problem to propositional reduction
+converting SSA
+Running propositional reduction
+Post-processing
+Solving with MiniSAT 2.2.1 with simplifier
+12760 variables, 31894 clauses
+SAT checker: instance is UNSATISFIABLE
+Runtime decision procedure: 0.0444259s
+
+** Results:
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Init
+[Rte_Fifo_Init.pointer_dereference.1] line 14 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.2] line 14 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.3] line 14 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.4] line 14 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.5] line 14 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.6] line 14 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.7] line 14 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.10] line 15 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.14] line 15 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.13] line 15 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.12] line 15 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.11] line 15 dereference failure: dead object in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.9] line 15 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.8] line 15 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fBuf + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.15] line 16 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.24] line 16 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.23] line 16 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.22] line 16 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.21] line 16 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.20] line 16 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.19] line 16 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.18] line 16 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.17] line 16 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.16] line 16 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.30] line 17 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.25] line 17 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.26] line 17 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.27] line 17 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.28] line 17 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.29] line 17 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.31] line 17 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.32] line 17 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.33] line 17 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.34] line 17 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.44] line 18 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.43] line 18 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.42] line 18 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.41] line 18 dereference failure: invalid integer address in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.40] line 18 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.38] line 18 dereference failure: dead object in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.37] line 18 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.36] line 18 dereference failure: pointer invalid in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.35] line 18 dereference failure: pointer NULL in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.39] line 18 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fBuf + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.49] line 19 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.51] line 19 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.50] line 19 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.48] line 19 dereference failure: dead object in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.47] line 19 dereference failure: deallocated dynamic object in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.46] line 19 dereference failure: pointer invalid in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.45] line 19 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fBuf + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.52] line 20 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.53] line 20 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.54] line 20 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.55] line 20 dereference failure: dead object in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.56] line 20 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.57] line 20 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Init.pointer_dereference.58] line 20 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fBuf + (signed long int)1ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Push
+[Rte_Fifo_Push.pointer_dereference.2] line 30 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.1] line 30 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.3] line 30 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.4] line 30 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.5] line 30 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.6] line 30 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.7] line 30 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.8] line 30 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.9] line 30 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.10] line 30 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)0ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.17] line 32 dereference failure: invalid integer address in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.16] line 32 dereference failure: pointer outside object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.15] line 32 dereference failure: pointer outside dynamic object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.14] line 32 dereference failure: dead object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.12] line 32 dereference failure: pointer invalid in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.11] line 32 dereference failure: pointer NULL in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.13] line 32 dereference failure: deallocated dynamic object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.24] line 35 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.28] line 35 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.27] line 35 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.26] line 35 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.25] line 35 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.23] line 35 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.22] line 35 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.21] line 35 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.20] line 35 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.19] line 35 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.18] line 35 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.29] line 36 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.39] line 36 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.38] line 36 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.37] line 36 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.36] line 36 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.35] line 36 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.33] line 36 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.32] line 36 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.31] line 36 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.30] line 36 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.34] line 36 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.46] line 37 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.49] line 37 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.48] line 37 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.47] line 37 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.45] line 37 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.44] line 37 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.43] line 37 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.42] line 37 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.41] line 37 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.40] line 37 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)16ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.50] line 38 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.51] line 38 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.52] line 38 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.58] line 40 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.53] line 40 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.54] line 40 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.55] line 40 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.56] line 40 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.57] line 40 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Push.pointer_dereference.59] line 40 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c function Rte_Fifo_Pop
+[Rte_Fifo_Pop.pointer_dereference.2] line 58 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.1] line 58 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.3] line 58 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.4] line 58 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.5] line 58 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.6] line 58 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.7] line 58 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.8] line 62 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.15] line 62 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.16] line 62 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.17] line 62 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.18] line 62 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.14] line 62 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.12] line 62 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.9] line 62 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.10] line 62 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.11] line 62 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.13] line 62 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.29] line 63 dereference failure: invalid integer address in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.19] line 63 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.20] line 63 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.21] line 63 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.22] line 63 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.23] line 63 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.24] line 63 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.25] line 63 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.26] line 63 dereference failure: pointer NULL in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.27] line 63 dereference failure: pointer outside dynamic object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.28] line 63 dereference failure: pointer outside object bounds in *((size_t *)(char *)((char *)fPtr + (signed long int)8ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.30] line 64 dereference failure: pointer NULL in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.31] line 64 dereference failure: pointer invalid in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.32] line 64 dereference failure: deallocated dynamic object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.33] line 64 dereference failure: dead object in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.34] line 64 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.35] line 64 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.36] line 64 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)24ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.37] line 64 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.38] line 64 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.39] line 64 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)40ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.40] line 65 dereference failure: pointer outside dynamic object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.41] line 65 dereference failure: pointer outside object bounds in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.42] line 65 dereference failure: invalid integer address in *((void **)(char *)((char *)fPtr + (signed long int)32ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.49] line 67 dereference failure: invalid integer address in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.43] line 67 dereference failure: pointer NULL in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.44] line 67 dereference failure: pointer invalid in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.45] line 67 dereference failure: deallocated dynamic object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.46] line 67 dereference failure: dead object in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.47] line 67 dereference failure: pointer outside dynamic object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.48] line 67 dereference failure: pointer outside object bounds in *((uint8 *)(char *)((char *)fPtr + (signed long int)1ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.50] line 69 dereference failure: pointer NULL in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.51] line 69 dereference failure: pointer invalid in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.52] line 69 dereference failure: deallocated dynamic object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.53] line 69 dereference failure: dead object in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.54] line 69 dereference failure: pointer outside dynamic object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.55] line 69 dereference failure: pointer outside object bounds in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+[Rte_Fifo_Pop.pointer_dereference.56] line 69 dereference failure: invalid integer address in *((boolean *)(char *)((char *)fPtr + (signed long int)2ul)): SUCCESS
+
+** 0 of 173 failed (1 iteration)
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_Start in file Rte_Main.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_Main.c
+Converting
+Type-checking Rte_Main
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 41 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_Stop in file Rte_Main.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_Main.c
+Converting
+Type-checking Rte_Main
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 32 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c
+Converting
+Type-checking Rte_IoHwAb
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 81 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c
+Converting
+Type-checking Rte_IoHwAb
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 47 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c
+Converting
+Type-checking Rte_IoHwAb
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 81 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c
+Converting
+Type-checking Rte_IoHwAb
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 47 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function compare_uint16 in file Rte_Internal.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Rte/Rte_Internal.c
+Converting
+Type-checking Rte_Internal
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 86 steps
+simple slicing removed 9 assignments
+Generated 14 VCC(s), 14 remaining after simplification
+Passing problem to propositional reduction
+converting SSA
+Running propositional reduction
+Post-processing
+Solving with MiniSAT 2.2.1 with simplifier
+941 variables, 863 clauses
+SAT checker: instance is SATISFIABLE
+Solving with MiniSAT 2.2.1 with simplifier
+941 variables, 284 clauses
+SAT checker: instance is SATISFIABLE
+Solving with MiniSAT 2.2.1 with simplifier
+941 variables, 284 clauses
+SAT checker: instance is SATISFIABLE
+Solving with MiniSAT 2.2.1 with simplifier
+941 variables, 280 clauses
+SAT checker inconsistent: instance is UNSATISFIABLE
+Runtime decision procedure: 0.0110148s
+
+** Results:
+/home/kali/AUTOSAR/test/Rte/Rte_Internal.c function compare_uint16
+[compare_uint16.pointer_dereference.1] line 29 dereference failure: pointer NULL in *((uint16 *)a): FAILURE
+[compare_uint16.pointer_dereference.2] line 29 dereference failure: pointer invalid in *((uint16 *)a): SUCCESS
+[compare_uint16.pointer_dereference.3] line 29 dereference failure: deallocated dynamic object in *((uint16 *)a): FAILURE
+[compare_uint16.pointer_dereference.4] line 29 dereference failure: dead object in *((uint16 *)a): FAILURE
+[compare_uint16.pointer_dereference.5] line 29 dereference failure: pointer outside dynamic object bounds in *((uint16 *)a): FAILURE
+[compare_uint16.pointer_dereference.6] line 29 dereference failure: pointer outside object bounds in *((uint16 *)a): FAILURE
+[compare_uint16.pointer_dereference.7] line 29 dereference failure: invalid integer address in *((uint16 *)a): SUCCESS
+[compare_uint16.pointer_dereference.8] line 29 dereference failure: pointer NULL in *((uint16 *)b): FAILURE
+[compare_uint16.pointer_dereference.9] line 29 dereference failure: pointer invalid in *((uint16 *)b): SUCCESS
+[compare_uint16.pointer_dereference.10] line 29 dereference failure: deallocated dynamic object in *((uint16 *)b): FAILURE
+[compare_uint16.pointer_dereference.11] line 29 dereference failure: dead object in *((uint16 *)b): FAILURE
+[compare_uint16.pointer_dereference.12] line 29 dereference failure: pointer outside dynamic object bounds in *((uint16 *)b): FAILURE
+[compare_uint16.pointer_dereference.13] line 29 dereference failure: pointer outside object bounds in *((uint16 *)b): FAILURE
+[compare_uint16.pointer_dereference.14] line 29 dereference failure: invalid integer address in *((uint16 *)b): SUCCESS
+
+** 10 of 14 failed (4 iterations)
+VERIFICATION FAILED

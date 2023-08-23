@@ -1,0 +1,375 @@
+
+======= cbmc verification for function Eth_Init in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+Unwinding loop Eth_Init.0 iteration 1 file /home/kali/AUTOSAR/test/Eth/Eth.c line 99 function Eth_Init thread 0
+Not unwinding loop Eth_Init.0 iteration 2 file /home/kali/AUTOSAR/test/Eth/Eth.c line 99 function Eth_Init thread 0
+Unwinding loop Eth_Init.1 iteration 1 file /home/kali/AUTOSAR/test/Eth/Eth.c line 127 function Eth_Init thread 0
+Not unwinding loop Eth_Init.1 iteration 2 file /home/kali/AUTOSAR/test/Eth/Eth.c line 127 function Eth_Init thread 0
+size of program expression: 211 steps
+simple slicing removed 66 assignments
+Generated 30 VCC(s), 28 remaining after simplification
+Passing problem to propositional reduction
+converting SSA
+Running propositional reduction
+Post-processing
+Solving with MiniSAT 2.2.1 with simplifier
+3048 variables, 7608 clauses
+SAT checker: instance is SATISFIABLE
+Solving with MiniSAT 2.2.1 with simplifier
+3048 variables, 2477 clauses
+SAT checker: instance is SATISFIABLE
+Solving with MiniSAT 2.2.1 with simplifier
+3048 variables, 250 clauses
+SAT checker inconsistent: instance is UNSATISFIABLE
+Runtime decision procedure: 0.0424225s
+
+** Results:
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_Init
+[Eth_Init.pointer_dereference.2] line 100 dereference failure: pointer invalid in *((const Eth_ConfigSetType * const *)(char *)((char *)CfgPtr + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.1] line 100 dereference failure: pointer NULL in *((const Eth_ConfigSetType * const *)(char *)((char *)CfgPtr + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.14] line 100 dereference failure: invalid integer address in *((const Eth_ControllerConfigType * const * const )(char *)((char *)CfgPtr->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.13] line 100 dereference failure: pointer outside object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)CfgPtr->ConfigSet + (signed long int)0ul)): FAILURE
+[Eth_Init.pointer_dereference.12] line 100 dereference failure: pointer outside dynamic object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)CfgPtr->ConfigSet + (signed long int)0ul)): FAILURE
+[Eth_Init.pointer_dereference.11] line 100 dereference failure: dead object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)CfgPtr->ConfigSet + (signed long int)0ul)): FAILURE
+[Eth_Init.pointer_dereference.10] line 100 dereference failure: deallocated dynamic object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)CfgPtr->ConfigSet + (signed long int)0ul)): FAILURE
+[Eth_Init.pointer_dereference.9] line 100 dereference failure: pointer invalid in *((const Eth_ControllerConfigType * const * const )(char *)((char *)CfgPtr->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.7] line 100 dereference failure: invalid integer address in *((const Eth_ConfigSetType * const *)(char *)((char *)CfgPtr + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.8] line 100 dereference failure: pointer NULL in *((const Eth_ControllerConfigType * const * const )(char *)((char *)CfgPtr->ConfigSet + (signed long int)0ul)): FAILURE
+[Eth_Init.pointer_dereference.3] line 100 dereference failure: deallocated dynamic object in *((const Eth_ConfigSetType * const *)(char *)((char *)CfgPtr + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.4] line 100 dereference failure: dead object in *((const Eth_ConfigSetType * const *)(char *)((char *)CfgPtr + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.6] line 100 dereference failure: pointer outside object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)CfgPtr + (signed long int)0ul)): SUCCESS
+[Eth_Init.pointer_dereference.5] line 100 dereference failure: pointer outside dynamic object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)CfgPtr + (signed long int)0ul)): SUCCESS
+[Eth_Init.array_bounds.1] line 128 array `EthGlobal'.ControllerMode upper bound in EthGlobal.ControllerMode[(signed long int)ctrlIndex]: SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_SetControllerMode
+[Eth_SetControllerMode.pointer_dereference.9] line 200 dereference failure: pointer invalid in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.14] line 200 dereference failure: invalid integer address in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.13] line 200 dereference failure: pointer outside object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.12] line 200 dereference failure: pointer outside dynamic object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.11] line 200 dereference failure: dead object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.10] line 200 dereference failure: deallocated dynamic object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.8] line 200 dereference failure: pointer NULL in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.7] line 200 dereference failure: invalid integer address in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.6] line 200 dereference failure: pointer outside object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.5] line 200 dereference failure: pointer outside dynamic object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.4] line 200 dereference failure: dead object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.3] line 200 dereference failure: deallocated dynamic object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.2] line 200 dereference failure: pointer invalid in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.pointer_dereference.1] line 200 dereference failure: pointer NULL in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetControllerMode.array_bounds.1] line 202 array `EthGlobal'.ControllerMode upper bound in EthGlobal.ControllerMode[(signed long int)CtrlIdx]: SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_GetControllerMode
+[Eth_GetControllerMode.array_bounds.1] line 260 array `EthGlobal'.ControllerMode upper bound in EthGlobal.ControllerMode[(signed long int)CtrlIdx]: SUCCESS
+[Eth_GetControllerMode.pointer_dereference.7] line 260 dereference failure: invalid integer address in *CtrlModePtr: SUCCESS
+[Eth_GetControllerMode.pointer_dereference.6] line 260 dereference failure: pointer outside object bounds in *CtrlModePtr: SUCCESS
+[Eth_GetControllerMode.pointer_dereference.4] line 260 dereference failure: dead object in *CtrlModePtr: SUCCESS
+[Eth_GetControllerMode.pointer_dereference.3] line 260 dereference failure: deallocated dynamic object in *CtrlModePtr: SUCCESS
+[Eth_GetControllerMode.pointer_dereference.2] line 260 dereference failure: pointer invalid in *CtrlModePtr: SUCCESS
+[Eth_GetControllerMode.pointer_dereference.1] line 260 dereference failure: pointer NULL in *CtrlModePtr: SUCCESS
+[Eth_GetControllerMode.pointer_dereference.5] line 260 dereference failure: pointer outside dynamic object bounds in *CtrlModePtr: SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_GetPhysAddr
+[Eth_GetPhysAddr.pointer_dereference.9] line 286 dereference failure: pointer invalid in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.14] line 286 dereference failure: invalid integer address in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.13] line 286 dereference failure: pointer outside object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.12] line 286 dereference failure: pointer outside dynamic object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.11] line 286 dereference failure: dead object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.10] line 286 dereference failure: deallocated dynamic object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.8] line 286 dereference failure: pointer NULL in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.7] line 286 dereference failure: invalid integer address in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.6] line 286 dereference failure: pointer outside object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.5] line 286 dereference failure: pointer outside dynamic object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.4] line 286 dereference failure: dead object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.3] line 286 dereference failure: deallocated dynamic object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.2] line 286 dereference failure: pointer invalid in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_GetPhysAddr.pointer_dereference.1] line 286 dereference failure: pointer NULL in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_SetPhysAddr
+[Eth_SetPhysAddr.pointer_dereference.14] line 313 dereference failure: invalid integer address in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.13] line 313 dereference failure: pointer outside object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.12] line 313 dereference failure: pointer outside dynamic object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.11] line 313 dereference failure: dead object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.10] line 313 dereference failure: deallocated dynamic object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.9] line 313 dereference failure: pointer invalid in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.8] line 313 dereference failure: pointer NULL in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.6] line 313 dereference failure: pointer outside object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.5] line 313 dereference failure: pointer outside dynamic object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.4] line 313 dereference failure: dead object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.3] line 313 dereference failure: deallocated dynamic object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.2] line 313 dereference failure: pointer invalid in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.1] line 313 dereference failure: pointer NULL in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_SetPhysAddr.pointer_dereference.7] line 313 dereference failure: invalid integer address in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_ProvideTxBuffer
+[Eth_ProvideTxBuffer.pointer_dereference.10] line 505 dereference failure: deallocated dynamic object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.14] line 505 dereference failure: invalid integer address in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.13] line 505 dereference failure: pointer outside object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.12] line 505 dereference failure: pointer outside dynamic object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.11] line 505 dereference failure: dead object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.9] line 505 dereference failure: pointer invalid in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.8] line 505 dereference failure: pointer NULL in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.6] line 505 dereference failure: pointer outside object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.7] line 505 dereference failure: invalid integer address in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.5] line 505 dereference failure: pointer outside dynamic object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.4] line 505 dereference failure: dead object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.3] line 505 dereference failure: deallocated dynamic object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.2] line 505 dereference failure: pointer invalid in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_ProvideTxBuffer.pointer_dereference.1] line 505 dereference failure: pointer NULL in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_Transmit
+[Eth_Transmit.pointer_dereference.12] line 531 dereference failure: pointer outside dynamic object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.13] line 531 dereference failure: pointer outside object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.14] line 531 dereference failure: invalid integer address in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.15] line 531 dereference failure: pointer NULL in *((const uint16 *)(char *)((char *)(EthGlobal.Config->ConfigSet->Controllers + (signed long int)CtrlIdx) + (signed long int)6ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.16] line 531 dereference failure: pointer invalid in *((const uint16 *)(char *)((char *)(EthGlobal.Config->ConfigSet->Controllers + (signed long int)CtrlIdx) + (signed long int)6ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.17] line 531 dereference failure: deallocated dynamic object in *((const uint16 *)(char *)((char *)(EthGlobal.Config->ConfigSet->Controllers + (signed long int)CtrlIdx) + (signed long int)6ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.18] line 531 dereference failure: dead object in *((const uint16 *)(char *)((char *)(EthGlobal.Config->ConfigSet->Controllers + (signed long int)CtrlIdx) + (signed long int)6ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.19] line 531 dereference failure: pointer outside dynamic object bounds in *((const uint16 *)(char *)((char *)(EthGlobal.Config->ConfigSet->Controllers + (signed long int)CtrlIdx) + (signed long int)6ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.20] line 531 dereference failure: pointer outside object bounds in *((const uint16 *)(char *)((char *)(EthGlobal.Config->ConfigSet->Controllers + (signed long int)CtrlIdx) + (signed long int)6ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.21] line 531 dereference failure: invalid integer address in *((const uint16 *)(char *)((char *)(EthGlobal.Config->ConfigSet->Controllers + (signed long int)CtrlIdx) + (signed long int)6ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.9] line 531 dereference failure: pointer invalid in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.10] line 531 dereference failure: deallocated dynamic object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.11] line 531 dereference failure: dead object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.1] line 531 dereference failure: pointer NULL in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.2] line 531 dereference failure: pointer invalid in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.3] line 531 dereference failure: deallocated dynamic object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.4] line 531 dereference failure: dead object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.5] line 531 dereference failure: pointer outside dynamic object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.6] line 531 dereference failure: pointer outside object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.7] line 531 dereference failure: invalid integer address in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.8] line 531 dereference failure: pointer NULL in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.array_bounds.1] line 540 array `EthGlobal'.ControllerMode upper bound in EthGlobal.ControllerMode[(signed long int)CtrlIdx]: SUCCESS
+[Eth_Transmit.pointer_dereference.35] line 542 dereference failure: invalid integer address in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.34] line 542 dereference failure: pointer outside object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.24] line 542 dereference failure: deallocated dynamic object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.33] line 542 dereference failure: pointer outside dynamic object bounds in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.32] line 542 dereference failure: dead object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.31] line 542 dereference failure: deallocated dynamic object in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.30] line 542 dereference failure: pointer invalid in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.29] line 542 dereference failure: pointer NULL in *((const Eth_ControllerConfigType * const * const )(char *)((char *)EthGlobal.Config->ConfigSet + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.28] line 542 dereference failure: invalid integer address in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.27] line 542 dereference failure: pointer outside object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.26] line 542 dereference failure: pointer outside dynamic object bounds in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.25] line 542 dereference failure: dead object in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.23] line 542 dereference failure: pointer invalid in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+[Eth_Transmit.pointer_dereference.22] line 542 dereference failure: pointer NULL in *((const Eth_ConfigSetType * const *)(char *)((char *)EthGlobal.Config + (signed long int)0ul)): SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_Receive
+[Eth_Receive.array_bounds.1] line 568 array `EthGlobal'.ControllerMode upper bound in EthGlobal.ControllerMode[(signed long int)CtrlIdx]: SUCCESS
+
+/home/kali/AUTOSAR/test/Eth/Eth.c function Eth_TxConfirmation
+[Eth_TxConfirmation.array_bounds.1] line 593 array `EthGlobal'.ControllerMode upper bound in EthGlobal.ControllerMode[(signed long int)CtrlIdx]: SUCCESS
+
+** 5 of 118 failed (3 iterations)
+VERIFICATION FAILED
+
+======= cbmc verification for function Eth_ControllerInit in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+
+======= cbmc verification for function Eth_SetControllerMode in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 42 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_GetControllerMode in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 56 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_GetPhysAddr in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 52 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_SetPhysAddr in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 52 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_UpdatePhysAddrFilter in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+
+======= cbmc verification for function Eth_WriteMii in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+
+======= cbmc verification for function Eth_WriteMii in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+
+======= cbmc verification for function Eth_ReadMii in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+
+======= cbmc verification for function Eth_ReadMii in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+
+======= cbmc verification for function Eth_ProvideTxBuffer in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 108 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_Transmit in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 72 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_Receive in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 52 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_Receive in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 52 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_TxConfirmation in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 34 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_MainFunction  in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth
+Generating GOTO Program
+Adding CPROVER library (x86_64)
+Removal of function pointers and virtual functions
+Generic Property Instrumentation
+Running with 8 object bits, 56 offset bits (default)
+Starting Bounded Model Checking
+size of program expression: 29 steps
+simple slicing removed 0 assignments
+Generated 0 VCC(s), 0 remaining after simplification
+VERIFICATION SUCCESSFUL
+
+======= cbmc verification for function Eth_GetVersionInfo in file Eth.c =======
+CBMC version 5.11 (cbmc-5.11) 64-bit x86_64 linux
+Parsing /home/kali/AUTOSAR/test/Eth/Eth.c
+Converting
+Type-checking Eth

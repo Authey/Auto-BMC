@@ -1,0 +1,242 @@
+
+======= esbmc verification for function Eth_Init in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.354s
+GOTO program processing time: 0.003s
+Starting Bounded Model Checking
+Unwinding loop 2  iteration  1   file Eth.c line 99 function Eth_Init
+Not unwinding 
+Symex completed in: 0.001s (27 assignments)
+Slicing time: 0.000s (removed 15 assignments)
+Generated 5 VCC(s), 5 remaining after simplification (12 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.029s
+Building error trace
+
+Counterexample:
+
+State 3 file Eth.c line 100 function Eth_Init thread 0
+----------------------------------------------------
+  pCtrlCfgPtr = ( Eth_ControllerConfigType *)(( Eth_ControllerConfigType { unsigned short int EthCtrlRxBufLenByte; unsigned short int EthCtrlTxBufLenByte; unsigned short int EthRxBufTotal; unsigned short int EthTxBufTotal; unsigned char EthHwUnit; unsigned char EthCtrlEnableMii; unsigned char EthCtrlEnableRxInterrupt; unsigned char EthCtrlEnableTxInterrupt; unsigned char [6] EthCtrlPhyAddress; } *)(invalid-object))
+
+State 6 file Eth.c line 100 function Eth_Init thread 0
+----------------------------------------------------
+  pCtrlCfgPtr = ( Eth_ControllerConfigType *)(( Eth_ControllerConfigType { unsigned short int EthCtrlRxBufLenByte; unsigned short int EthCtrlTxBufLenByte; unsigned short int EthRxBufTotal; unsigned short int EthTxBufTotal; unsigned char EthHwUnit; unsigned char EthCtrlEnableMii; unsigned char EthCtrlEnableRxInterrupt; unsigned char EthCtrlEnableTxInterrupt; unsigned char [6] EthCtrlPhyAddress; } *)(invalid-object + 1))
+
+State 7 file Eth.c line 99 function Eth_Init thread 0
+----------------------------------------------------
+Violated property:
+  file Eth.c line 99 function Eth_Init
+  unwinding assertion loop 
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Eth_ControllerInit in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function Eth_SetControllerMode in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.113s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_GetControllerMode in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.110s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_GetPhysAddr in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.109s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_SetPhysAddr in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.111s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_UpdatePhysAddrFilter in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function Eth_WriteMii in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function Eth_WriteMii in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function Eth_ReadMii in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function Eth_ReadMii in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+
+======= esbmc verification for function Eth_ProvideTxBuffer in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.135s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_Transmit in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.107s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_Receive in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.109s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_Receive in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.107s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_TxConfirmation in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.109s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_MainFunction  in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.106s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Eth_GetVersionInfo in file Eth.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting

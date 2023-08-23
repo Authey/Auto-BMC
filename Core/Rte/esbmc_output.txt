@@ -1,0 +1,669 @@
+
+======= esbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.150s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+no body for function ComM_GetCurrentComMode
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.143s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function ComM_GetMaxComMode
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.142s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function ComM_GetRequestedComMode
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.138s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+no body for function ComM_RequestComMode
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.140s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+no body for function ComM_GetCurrentComMode
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.140s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function ComM_GetMaxComMode
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.131s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function ComM_GetRequestedComMode
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.124s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function ComM_RequestComMode
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.128s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+no body for function EcuM_GetBootTarget
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.126s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_GetLastShutdownTarget
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.143s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_GetShutdownTarget
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.126s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_ReleasePOST_RUN
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.001s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.123s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_ReleaseRUN
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.124s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_RequestPOST_RUN
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.123s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_RequestRUN
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.123s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_SelectBootTarget
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.133s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+no body for function EcuM_SelectShutdownTarget
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.145s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_GetBootTarget
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.001s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.130s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_GetLastShutdownTarget
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.126s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_GetShutdownTarget
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.146s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_ReleasePOST_RUN
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.001s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.128s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_ReleaseRUN
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.136s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_RequestPOST_RUN
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.146s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_RequestRUN
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.128s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+no body for function EcuM_SelectBootTarget
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.132s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function EcuM_SelectShutdownTarget
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_Fifo_Init in file Rte_Fifo.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.107s
+GOTO program processing time: 0.001s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (27 assignments)
+Slicing time: 0.000s (removed 15 assignments)
+Generated 10 VCC(s), 10 remaining after simplification (12 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.000s
+Building error trace
+
+Counterexample:
+
+State 1 file Rte_Fifo.c line 14 function Rte_Fifo_Init thread 0
+----------------------------------------------------
+Violated property:
+  file Rte_Fifo.c line 14 function Rte_Fifo_Init
+  dereference failure: invalid pointer
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Rte_Fifo_Push in file Rte_Fifo.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.139s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Unwinding loop 2  iteration  1   file string.c line 263 function memcpy
+Not unwinding 
+Symex completed in: 0.003s (67 assignments)
+Slicing time: 0.000s (removed 36 assignments)
+Generated 19 VCC(s), 19 remaining after simplification (31 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.047s
+Building error trace
+
+Counterexample:
+
+State 9 file string.c line 263 function memcpy thread 0
+----------------------------------------------------
+Violated property:
+  file string.c line 263 function memcpy
+  unwinding assertion loop 
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Rte_Fifo_Pop in file Rte_Fifo.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.114s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Unwinding loop 2  iteration  1   file string.c line 263 function memcpy
+Not unwinding 
+Symex completed in: 0.003s (67 assignments)
+Slicing time: 0.000s (removed 36 assignments)
+Generated 19 VCC(s), 19 remaining after simplification (31 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.042s
+Building error trace
+
+Counterexample:
+
+State 8 file string.c line 263 function memcpy thread 0
+----------------------------------------------------
+Violated property:
+  file string.c line 263 function memcpy
+  unwinding assertion loop 
+
+
+VERIFICATION FAILED
+
+======= esbmc verification for function Rte_Start in file Rte_Main.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.107s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function Rte_Init_Calprms
+no body for function Rte_Internal_Init_Buffers
+no body for function IocInit
+Symex completed in: 0.000s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_Stop in file Rte_Main.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.108s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.001s (11 assignments)
+Slicing time: 0.000s (removed 11 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.123s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function IoHwAb_Digital_Read
+Symex completed in: 0.000s (14 assignments)
+Slicing time: 0.000s (removed 14 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.130s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function IoHwAb_Digital_Write
+Symex completed in: 0.001s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.127s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function IoHwAb_Digital_Read
+Symex completed in: 0.001s (14 assignments)
+Slicing time: 0.000s (removed 14 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.001s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.130s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+no body for function IoHwAb_Digital_Write
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 13 assignments)
+Generated 0 VCC(s), 0 remaining after simplification (0 assignments)
+BMC program time: 0.000s
+
+VERIFICATION SUCCESSFUL
+
+======= esbmc verification for function compare_uint16 in file Rte_Internal.c =======
+ESBMC version 7.1.0 64-bit x86_64 linux
+Target: 64-bit little-endian x86_64-unknown-linux with esbmclibc
+Parsing
+Converting
+Generating GOTO Program
+GOTO program creation time: 0.119s
+GOTO program processing time: 0.000s
+Starting Bounded Model Checking
+Symex completed in: 0.000s (13 assignments)
+Slicing time: 0.000s (removed 9 assignments)
+Generated 2 VCC(s), 2 remaining after simplification (4 assignments)
+No solver specified; defaulting to Boolector
+Encoding remaining VCC(s) using bit-vector/floating-point arithmetic
+Encoding to solver time: 0.000s
+Solving with solver Boolector 3.2.2
+Runtime decision procedure: 0.012s
+Building error trace
+
+Counterexample:
+
+State 1 file Rte_Internal.c line 29 function compare_uint16 thread 0
+----------------------------------------------------
+Violated property:
+  file Rte_Internal.c line 29 function compare_uint16
+  dereference failure: invalid pointer
+
+
+VERIFICATION FAILED

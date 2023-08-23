@@ -1,0 +1,111 @@
+
+======= cbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_GetCurrentComMode
+
+======= cbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_GetMaxComMode
+
+======= cbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_GetRequestedComMode
+
+======= cbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_RequestComMode
+
+======= cbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_GetCurrentComMode
+
+======= cbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_GetMaxComMode
+
+======= cbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_GetRequestedComMode
+
+======= cbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+**** WARNING: no body for function ComM_RequestComMode
+
+======= cbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_GetBootTarget
+
+======= cbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_GetLastShutdownTarget
+
+======= cbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_GetShutdownTarget
+
+======= cbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_ReleasePOST_RUN
+
+======= cbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_ReleaseRUN
+
+======= cbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_RequestPOST_RUN
+
+======= cbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_RequestRUN
+
+======= cbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_SelectBootTarget
+
+======= cbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_SelectShutdownTarget
+
+======= cbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_GetBootTarget
+
+======= cbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_GetLastShutdownTarget
+
+======= cbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_GetShutdownTarget
+
+======= cbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_ReleasePOST_RUN
+
+======= cbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_ReleaseRUN
+
+======= cbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_RequestPOST_RUN
+
+======= cbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_RequestRUN
+
+======= cbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_SelectBootTarget
+
+======= cbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+**** WARNING: no body for function EcuM_SelectShutdownTarget
+
+======= cbmc verification for function Rte_Fifo_Init in file Rte_Fifo.c =======
+
+======= cbmc verification for function Rte_Fifo_Push in file Rte_Fifo.c =======
+**** WARNING: no body for function __builtin_memcpy
+
+======= cbmc verification for function Rte_Fifo_Pop in file Rte_Fifo.c =======
+**** WARNING: no body for function __builtin_memcpy
+
+======= cbmc verification for function Rte_Start in file Rte_Main.c =======
+**** WARNING: no body for function Rte_Init_Calprms
+**** WARNING: no body for function Rte_Internal_Init_Buffers
+**** WARNING: no body for function IocInit
+
+======= cbmc verification for function Rte_Stop in file Rte_Main.c =======
+
+======= cbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+file /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c line 75 function Rte_ioHwAb_DigitalRead: function `IoHwAb_Digital_Read' is not declared
+**** WARNING: no body for function IoHwAb_Digital_Read
+
+======= cbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+file /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c line 75 function Rte_ioHwAb_DigitalRead: function `IoHwAb_Digital_Read' is not declared
+**** WARNING: no body for function IoHwAb_Digital_Write
+
+======= cbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+file /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c line 75 function Rte_ioHwAb_DigitalRead: function `IoHwAb_Digital_Read' is not declared
+**** WARNING: no body for function IoHwAb_Digital_Read
+
+======= cbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+file /home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c line 75 function Rte_ioHwAb_DigitalRead: function `IoHwAb_Digital_Read' is not declared
+**** WARNING: no body for function IoHwAb_Digital_Write
+
+======= cbmc verification for function compare_uint16 in file Rte_Internal.c =======

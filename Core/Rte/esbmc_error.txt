@@ -1,0 +1,132 @@
+
+======= esbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_comM_GetCurrentComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_comM_GetMaxComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_comM_GetRequestedComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_comM_RequestComMode in file Rte_ComM.c =======
+
+======= esbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_GetBootTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_GetLastShutdownTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_GetShutdownTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_ReleasePOSTRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_ReleaseRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_RequestPOSTRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_RequestRUN in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_SelectBootTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_ecuM_SelectShutdownTarget in file Rte_EcuM.c =======
+
+======= esbmc verification for function Rte_Fifo_Init in file Rte_Fifo.c =======
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c:35:5: warning: implicitly declaring library function 'memcpy' with type 'void *(void *, const void *, unsigned long)' [-Wimplicit-function-declaration]
+    MEMCPY(fPtr->head, dataPtr, fPtr->dataSize);
+    ^
+/home/kali/AUTOSAR/test/Rte/Rte_Utils.h:10:29: note: expanded from macro 'MEMCPY'
+#define MEMCPY(_x,_y,_z)    __builtin_memcpy(_x,_y,_z)
+                            ^
+<command line>:25:26: note: expanded from here
+#define __builtin_memcpy memcpy
+                         ^
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c:35:5: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+/home/kali/AUTOSAR/test/Rte/Rte_Utils.h:10:29: note: expanded from macro 'MEMCPY'
+#define MEMCPY(_x,_y,_z)    __builtin_memcpy(_x,_y,_z)
+                            ^
+<command line>:25:26: note: expanded from here
+#define __builtin_memcpy memcpy
+                         ^
+
+======= esbmc verification for function Rte_Fifo_Push in file Rte_Fifo.c =======
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c:35:5: warning: implicitly declaring library function 'memcpy' with type 'void *(void *, const void *, unsigned long)' [-Wimplicit-function-declaration]
+    MEMCPY(fPtr->head, dataPtr, fPtr->dataSize);
+    ^
+/home/kali/AUTOSAR/test/Rte/Rte_Utils.h:10:29: note: expanded from macro 'MEMCPY'
+#define MEMCPY(_x,_y,_z)    __builtin_memcpy(_x,_y,_z)
+                            ^
+<command line>:25:26: note: expanded from here
+#define __builtin_memcpy memcpy
+                         ^
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c:35:5: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+/home/kali/AUTOSAR/test/Rte/Rte_Utils.h:10:29: note: expanded from macro 'MEMCPY'
+#define MEMCPY(_x,_y,_z)    __builtin_memcpy(_x,_y,_z)
+                            ^
+<command line>:25:26: note: expanded from here
+#define __builtin_memcpy memcpy
+                         ^
+
+======= esbmc verification for function Rte_Fifo_Pop in file Rte_Fifo.c =======
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c:35:5: warning: implicitly declaring library function 'memcpy' with type 'void *(void *, const void *, unsigned long)' [-Wimplicit-function-declaration]
+    MEMCPY(fPtr->head, dataPtr, fPtr->dataSize);
+    ^
+/home/kali/AUTOSAR/test/Rte/Rte_Utils.h:10:29: note: expanded from macro 'MEMCPY'
+#define MEMCPY(_x,_y,_z)    __builtin_memcpy(_x,_y,_z)
+                            ^
+<command line>:25:26: note: expanded from here
+#define __builtin_memcpy memcpy
+                         ^
+/home/kali/AUTOSAR/test/Rte/Rte_Fifo.c:35:5: note: include the header <string.h> or explicitly provide a declaration for 'memcpy'
+/home/kali/AUTOSAR/test/Rte/Rte_Utils.h:10:29: note: expanded from macro 'MEMCPY'
+#define MEMCPY(_x,_y,_z)    __builtin_memcpy(_x,_y,_z)
+                            ^
+<command line>:25:26: note: expanded from here
+#define __builtin_memcpy memcpy
+                         ^
+
+======= esbmc verification for function Rte_Start in file Rte_Main.c =======
+
+======= esbmc verification for function Rte_Stop in file Rte_Main.c =======
+
+======= esbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+/home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c:75:14: warning: implicit declaration of function 'IoHwAb_Digital_Read' is invalid in C99 [-Wimplicit-function-declaration]
+    retVal = IoHwAb_Digital_Read(portDefArg1, Level, Quality);
+             ^
+
+======= esbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+/home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c:75:14: warning: implicit declaration of function 'IoHwAb_Digital_Read' is invalid in C99 [-Wimplicit-function-declaration]
+    retVal = IoHwAb_Digital_Read(portDefArg1, Level, Quality);
+             ^
+
+======= esbmc verification for function Rte_ioHwAb_DigitalRead in file Rte_IoHwAb.c =======
+/home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c:75:14: warning: implicit declaration of function 'IoHwAb_Digital_Read' is invalid in C99 [-Wimplicit-function-declaration]
+    retVal = IoHwAb_Digital_Read(portDefArg1, Level, Quality);
+             ^
+
+======= esbmc verification for function Rte_ioHwAb_DigitalWrite in file Rte_IoHwAb.c =======
+/home/kali/AUTOSAR/test/Rte/Rte_IoHwAb.c:75:14: warning: implicit declaration of function 'IoHwAb_Digital_Read' is invalid in C99 [-Wimplicit-function-declaration]
+    retVal = IoHwAb_Digital_Read(portDefArg1, Level, Quality);
+             ^
+
+======= esbmc verification for function compare_uint16 in file Rte_Internal.c =======
