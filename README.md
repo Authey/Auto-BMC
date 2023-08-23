@@ -10,7 +10,6 @@ This is an verification tool that can automatically verify all C functions in th
 + Visible verification process and result file writing.
 
 ## How to Use it
-[![Auto-BMC Demo](https://img.youtube.com/vi/TtP4cuutl6A/0.jpg)](https://www.youtube.com/watch?v=TtP4cuutl6A)
 + Use `pip install tkinter` to download GUI dependency.
 + Run the python file with `python main.py`.
 + Select BMC and each directory location.
@@ -19,6 +18,8 @@ This is an verification tool that can automatically verify all C functions in th
 + Check the verification progress in the bottom text box.
 + The results can be viewed in the output file.
 + Verification for main program needs to be performed manually.
+The video below illustrates how to use Auto-BMC to verify AUTOSAR standard.
+[![](https://markdown-videos-api.jorgenkh.no/youtube/TtP4cuutl6A)](https://youtu.be/TtP4cuutl6A)
 
 ## Improvements
 + Program level verification support.
